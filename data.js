@@ -579,7 +579,7 @@ const data = [{
     "departure": "BLR",
     "destination": "DEL",
     "vendor": "INDIGO",
-    "price": 16828
+    "price": 14828
   }
   ,
   {
