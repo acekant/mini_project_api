@@ -155,7 +155,7 @@ const data = [{
     "departure": "DEL",
     "destination": "BOM",
     "vendor": "GOAIR",
-    "price": 10745
+    "price": 1
   }
   ,
   {
@@ -179,7 +179,7 @@ const data = [{
     "departure": "DEL",
     "destination": "BLR",
     "vendor": "GOAIR",
-    "price": 15298
+    "price": 14000
   }
   ,
   {
