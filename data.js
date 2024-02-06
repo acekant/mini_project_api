@@ -3,7 +3,7 @@ const data = [{
     "departure": "BLR",
     "destination": "DEL",
     "vendor": "GOAIR",
-    "price": 15768
+    "price": 16584
   }
   ,
   {
