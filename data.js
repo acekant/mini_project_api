@@ -163,7 +163,7 @@ const data = [{
     "departure": "DEL",
     "destination": "PNQ",
     "vendor": "GOAIR",
-    "price": 18683
+    "price": 10599
   }
   ,
   {
